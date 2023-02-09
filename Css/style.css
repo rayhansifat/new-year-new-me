@@ -69,7 +69,7 @@ header{
     margin: 100px 400px;
 }
 .sec-container {
-    background-image: url('/images/watch.png');
+    background-image: url("images/watch.png");
     background-repeat: no-repeat;
     border-radius: 10px;
     position: relative;
