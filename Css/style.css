@@ -64,3 +64,33 @@ header{
 .title{
    text-align: center;
 }
+
+.last-sec{
+    margin: 100px 400px;
+}
+.sec-container {
+    background-image: url('/images/watch.png');
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    position: relative;
+    color: white;
+  }
+
+.head-text {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    
+  }
+.btn{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    
+  }
+ 
